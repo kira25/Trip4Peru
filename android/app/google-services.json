@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "404549950418",
+    "firebase_url": "https://trip4peru.firebaseio.com",
+    "project_id": "trip4peru",
+    "storage_bucket": "trip4peru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404549950418:android:39ff9a99aa7e5c0585060b",
+        "android_client_info": {
+          "package_name": "com.example.trip4peru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404549950418-vvksf4eussrb3ap3t6hpp4jnlv2e5q8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trip4peru",
+            "certificate_hash": "1cbb0202b4cc79e50fb00d8f2c735edaaa5e9e30"
+          }
+        },
+        {
+          "client_id": "404549950418-cjreb9llssp54uctgdsk9vshls8i1q45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBhkn4Fb0En7L8wA5TNxbqybdJhJ9ovnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404549950418-cjreb9llssp54uctgdsk9vshls8i1q45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
