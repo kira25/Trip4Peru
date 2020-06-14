@@ -4,7 +4,6 @@ import 'package:trip4peru/Screens/loading_screen.dart';
 import 'package:trip4peru/Screens/login_screen.dart';
 import 'package:trip4peru/Screens/profile_screen.dart';
 
-
 class MainScreen extends StatelessWidget {
   static const String id = 'main_screen';
   @override
